@@ -1,0 +1,4 @@
+ToolSet: 5.2 (local)@D:\MinGW\mingw-8.2.0
+Options: 
+
+Options:
